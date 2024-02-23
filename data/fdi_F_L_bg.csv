@@ -1,0 +1,175 @@
+﻿country,time,frequency,economic_activity,value,series_denominated
+BG,2006-Q1,Q,Real estate,1461.4,MEUR
+BG,2006-Q2,Q,Real estate,1948.9,MEUR
+BG,2006-Q3,Q,Real estate,2481.9,MEUR
+BG,2006-Q4,Q,Real estate,2853.3,MEUR
+BG,2007-Q1,Q,Real estate,3029.1,MEUR
+BG,2007-Q2,Q,Real estate,3735.4,MEUR
+BG,2007-Q3,Q,Real estate,4477.4,MEUR
+BG,2007-Q4,Q,Real estate,5350,MEUR
+BG,2008-Q1,Q,Real estate,5739.8,MEUR
+BG,2008-Q2,Q,Real estate,6292.2,MEUR
+BG,2008-Q3,Q,Real estate,6930.3,MEUR
+BG,2008-Q4,Q,Real estate,7520.7,MEUR
+BG,2009-Q1,Q,Real estate,7711,MEUR
+BG,2009-Q2,Q,Real estate,7856.3,MEUR
+BG,2009-Q3,Q,Real estate,7884.6,MEUR
+BG,2009-Q4,Q,Real estate,8118.1,MEUR
+BG,2010-Q1,Q,Real estate,8022.6,MEUR
+BG,2010-Q2,Q,Real estate,8143.4,MEUR
+BG,2010-Q3,Q,Real estate,8067.2,MEUR
+BG,2010-Q4,Q,Real estate,7730.3,MEUR
+BG,2011-Q1,Q,Real estate,7971.1,MEUR
+BG,2011-Q2,Q,Real estate,7960.3,MEUR
+BG,2011-Q3,Q,Real estate,7934.3,MEUR
+BG,2011-Q4,Q,Real estate,7877.1,MEUR
+BG,2012-Q1,Q,Real estate,8147.6,MEUR
+BG,2012-Q2,Q,Real estate,8108.1,MEUR
+BG,2012-Q3,Q,Real estate,8004.3,MEUR
+BG,2012-Q4,Q,Real estate,7742.4,MEUR
+BG,2013-Q1,Q,Real estate,7740.3,MEUR
+BG,2013-Q2,Q,Real estate,7748.9,MEUR
+BG,2013-Q3,Q,Real estate,7695.3,MEUR
+BG,2013-Q4,Q,Real estate,7814.1,MEUR
+BG,2014-Q1,Q,Real estate,9650.6,MEUR
+BG,2014-Q2,Q,Real estate,9705.8,MEUR
+BG,2014-Q3,Q,Real estate,9783.8,MEUR
+BG,2014-Q4,Q,Real estate,9801.2,MEUR
+BG,2015-Q1,Q,Real estate,10010.6,MEUR
+BG,2015-Q2,Q,Real estate,9983.7,MEUR
+BG,2015-Q3,Q,Real estate,10013.2,MEUR
+BG,2015-Q4,Q,Real estate,10069,MEUR
+BG,2016-Q1,Q,Real estate,9950.1,MEUR
+BG,2016-Q2,Q,Real estate,10048.3,MEUR
+BG,2016-Q3,Q,Real estate,9930.6,MEUR
+BG,2016-Q4,Q,Real estate,9884.3,MEUR
+BG,2017-Q1,Q,Real estate,9914.4,MEUR
+BG,2017-Q2,Q,Real estate,9977.9,MEUR
+BG,2017-Q3,Q,Real estate,10195,MEUR
+BG,2017-Q4,Q,Real estate,10242.8,MEUR
+BG,2018-Q1,Q,Real estate,10290,MEUR
+BG,2018-Q2,Q,Real estate,10279.5,MEUR
+BG,2018-Q3,Q,Real estate,10331.1,MEUR
+BG,2018-Q4,Q,Real estate,10332.4,MEUR
+BG,2019-Q1,Q,Real estate,10546.8,MEUR
+BG,2019-Q2,Q,Real estate,10682.4,MEUR
+BG,2019-Q3,Q,Real estate,10709,MEUR
+BG,2019-Q4,Q,Real estate,10640.7,MEUR
+BG,2020-Q1,Q,Real estate,11013,MEUR
+BG,2020-Q2,Q,Real estate,11025.6,MEUR
+BG,2020-Q3,Q,Real estate,11039.8,MEUR
+BG,2020-Q4,Q,Real estate,11057.8,MEUR
+BG,2021-Q1,Q,Real estate,11096.9,MEUR
+BG,2021-Q2,Q,Real estate,11141.2,MEUR
+BG,2021-Q3,Q,Real estate,11184.9,MEUR
+BG,2021-Q4,Q,Real estate,11250.1,MEUR
+BG,2022-Q1,Q,Real estate,11240.2,MEUR
+BG,2022-Q2,Q,Real estate,11300.1,MEUR
+BG,2022-Q3,Q,Real estate,11306.6,MEUR
+BG,2022-Q4,Q,Real estate,11346,MEUR
+BG,2023-Q1,Q,Real estate,11702.6,MEUR
+BG,2006-Q1,Q,Construction,453.6,MEUR
+BG,2006-Q2,Q,Construction,570.2,MEUR
+BG,2006-Q3,Q,Construction,673.6,MEUR
+BG,2006-Q4,Q,Construction,867.4,MEUR
+BG,2007-Q1,Q,Construction,984,MEUR
+BG,2007-Q2,Q,Construction,1205.6,MEUR
+BG,2007-Q3,Q,Construction,1467.2,MEUR
+BG,2007-Q4,Q,Construction,1880.2,MEUR
+BG,2008-Q1,Q,Construction,1895.4,MEUR
+BG,2008-Q2,Q,Construction,2044.8,MEUR
+BG,2008-Q3,Q,Construction,2231.6,MEUR
+BG,2008-Q4,Q,Construction,2335.9,MEUR
+BG,2009-Q1,Q,Construction,2335.3,MEUR
+BG,2009-Q2,Q,Construction,2402.1,MEUR
+BG,2009-Q3,Q,Construction,2434.8,MEUR
+BG,2009-Q4,Q,Construction,2676.3,MEUR
+BG,2010-Q1,Q,Construction,2787.5,MEUR
+BG,2010-Q2,Q,Construction,2826.7,MEUR
+BG,2010-Q3,Q,Construction,2810.8,MEUR
+BG,2010-Q4,Q,Construction,2700.7,MEUR
+BG,2011-Q1,Q,Construction,2809.3,MEUR
+BG,2011-Q2,Q,Construction,2776,MEUR
+BG,2011-Q3,Q,Construction,2759.5,MEUR
+BG,2011-Q4,Q,Construction,2611.8,MEUR
+BG,2012-Q1,Q,Construction,2757.4,MEUR
+BG,2012-Q2,Q,Construction,2829.7,MEUR
+BG,2012-Q3,Q,Construction,2877,MEUR
+BG,2012-Q4,Q,Construction,2885.7,MEUR
+BG,2013-Q1,Q,Construction,2871.7,MEUR
+BG,2013-Q2,Q,Construction,2910.7,MEUR
+BG,2013-Q3,Q,Construction,2934.9,MEUR
+BG,2013-Q4,Q,Construction,2960.8,MEUR
+BG,2014-Q1,Q,Construction,968.5,MEUR
+BG,2014-Q2,Q,Construction,1082.4,MEUR
+BG,2014-Q3,Q,Construction,1081.7,MEUR
+BG,2014-Q4,Q,Construction,1134,MEUR
+BG,2015-Q1,Q,Construction,912,MEUR
+BG,2015-Q2,Q,Construction,923.6,MEUR
+BG,2015-Q3,Q,Construction,988.7,MEUR
+BG,2015-Q4,Q,Construction,1029.9,MEUR
+BG,2016-Q1,Q,Construction,1012.1,MEUR
+BG,2016-Q2,Q,Construction,1021.3,MEUR
+BG,2016-Q3,Q,Construction,1024.5,MEUR
+BG,2016-Q4,Q,Construction,1018.2,MEUR
+BG,2017-Q1,Q,Construction,1026.4,MEUR
+BG,2017-Q2,Q,Construction,1104.4,MEUR
+BG,2017-Q3,Q,Construction,1149.7,MEUR
+BG,2017-Q4,Q,Construction,1185.3,MEUR
+BG,2018-Q1,Q,Construction,1186.9,MEUR
+BG,2018-Q2,Q,Construction,1193.5,MEUR
+BG,2018-Q3,Q,Construction,1192.4,MEUR
+BG,2018-Q4,Q,Construction,1172.7,MEUR
+BG,2019-Q1,Q,Construction,1137.9,MEUR
+BG,2019-Q2,Q,Construction,1083.1,MEUR
+BG,2019-Q3,Q,Construction,1065.9,MEUR
+BG,2019-Q4,Q,Construction,1118.7,MEUR
+BG,2020-Q1,Q,Construction,846.5,MEUR
+BG,2020-Q2,Q,Construction,925.9,MEUR
+BG,2020-Q3,Q,Construction,1029.8,MEUR
+BG,2020-Q4,Q,Construction,1020.5,MEUR
+BG,2021-Q1,Q,Construction,757.3,MEUR
+BG,2021-Q2,Q,Construction,709.1,MEUR
+BG,2021-Q3,Q,Construction,712.3,MEUR
+BG,2021-Q4,Q,Construction,719.6,MEUR
+BG,2022-Q1,Q,Construction,674.4,MEUR
+BG,2022-Q2,Q,Construction,662.6,MEUR
+BG,2022-Q3,Q,Construction,647.1,MEUR
+BG,2022-Q4,Q,Construction,652.1,MEUR
+BG,2023-Q1,Q,Construction,622.5,MEUR
+BG,2005,A,Real estate,1119.7,MEUR
+BG,2006,A,Real estate,2853.3,MEUR
+BG,2007,A,Real estate,5350,MEUR
+BG,2008,A,Real estate,7520.7,MEUR
+BG,2009,A,Real estate,8118.1,MEUR
+BG,2010,A,Real estate,7730.3,MEUR
+BG,2011,A,Real estate,7877.1,MEUR
+BG,2012,A,Real estate,7743.3,MEUR
+BG,2013,A,Real estate,7814.3,MEUR
+BG,2014,A,Real estate,8290.5,MEUR
+BG,2015,A,Real estate,10069,MEUR
+BG,2016,A,Real estate,9884.3,MEUR
+BG,2017,A,Real estate,10242.8,MEUR
+BG,2018,A,Real estate,10332.4,MEUR
+BG,2019,A,Real estate,10640.7,MEUR
+BG,2020,A,Real estate,11057.8,MEUR
+BG,2021,A,Real estate,11250.1,MEUR
+BG,2022,A,Real estate,11346,MEUR
+BG,2005,A,Construction,338.6,MEUR
+BG,2006,A,Construction,867.4,MEUR
+BG,2007,A,Construction,1880.2,MEUR
+BG,2008,A,Construction,2335.9,MEUR
+BG,2009,A,Construction,2676.3,MEUR
+BG,2010,A,Construction,2700.7,MEUR
+BG,2011,A,Construction,2611.8,MEUR
+BG,2012,A,Construction,2885.7,MEUR
+BG,2013,A,Construction,2960.8,MEUR
+BG,2014,A,Construction,3130.9,MEUR
+BG,2015,A,Construction,1029.9,MEUR
+BG,2016,A,Construction,1018.2,MEUR
+BG,2017,A,Construction,1185.3,MEUR
+BG,2018,A,Construction,1172.7,MEUR
+BG,2019,A,Construction,1118.7,MEUR
+BG,2020,A,Construction,1020.5,MEUR
+BG,2021,A,Construction,719.6,MEUR
+BG,2022,A,Construction,652.1,MEUR
