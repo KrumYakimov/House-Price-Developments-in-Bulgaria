@@ -1,6 +1,6 @@
 # House-Price-Developments-in-Bulgaria
 
-Data Science SoftUni 2023 course project
+Data Science - SoftUni 2023 course project
 
 ## Abstract
 This study investigates trends and dynamics of housing prices in Bulgaria across distinct time frames. Our central focus is to address a pivotal question: Is the current housing price surge indicative of a new bubble? In our pursuit of answering this critical query, we deploy a comprehensive approach encompassing a simultaneous assessment of a predefined set of conditions. We meticulously evaluate whether the annual growth rate in the deflated house prices index surpasses the 6% threshold, seeking any signs of dislocations or distortions within the real economy. These dislocations could manifest as rapid credit expansion, housing growth rates that far outpace rising rents, or an influx of excessive capital into the housing market. To decipher the stability and sustainability of house price growth, we encompase an array of rigorous statistical techniques. These include correlation analysis and hypothesis tests. By unraveling these intricate facets and harnessing the power of these statistical methods, our comprehensive analysis collectively signals that there is no housing price bubble on the horizon for Bulgaria as of the conclusion of 2022 and the first quarter of 2023.
